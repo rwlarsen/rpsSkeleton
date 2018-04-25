@@ -7,5 +7,6 @@
   ],
   "devDependencies": {
     "jasmine": "latest"
-  }
+  },
+  "scripts": { "test": "jasmine" }
 }
